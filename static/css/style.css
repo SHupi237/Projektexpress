@@ -1,0 +1,55 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none;
+}
+
+body {
+    margin: 0;
+}
+.menu {
+    background-color: #319AF5;
+    padding: 20px;
+    font-size: 20px ;
+    font-weight:bold ;
+    
+}
+.menu a {
+    margin: 15px 10px;
+    color: #FFF;
+}
+h1 {
+    margin: 20px 0;
+    font-size: 150px;
+    color: #ccc;
+    width: 100%;
+    text-align: center;
+}
+.logowanie {
+    background-color: #EB1100;
+    padding: 20px;
+    font-size: 20px ;
+    font-weight:bold ;
+}
+
+.menu.menu-yellow {
+    background-color: yellow;
+}
+
+.menu.menu-yellow a {
+    color: #000;
+}
+.menu.menu-black {
+    background-color: black;
+}
+
+.table {
+    margin: 20px auto;
+}
+
+.table td {
+    background-color:black ;
+    color:white;
+    border:2px solid brown ;
+    padding:15px ;
+    font-size:20px ;
+}
